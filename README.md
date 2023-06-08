@@ -1,4 +1,4 @@
-# BTD210
+# BTD210 - Database Design Principles
 ### Seneca College of Applied Arts and Technology, Seneca Polytechnic <br />
 ### Duration: January 2023 - April 2023 <br />
 ### Professor: Tamanna Chhbara <br />
